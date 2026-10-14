@@ -25,7 +25,9 @@ jobs:
             dist/github-snake-dark.svg?color_snake=#f472b6&color_dots=#161b22,#4a3a8c,#7059d1,#9d84f5,#d4c2ff
 
       - name: Build activity card
-        run: python3 scripts/activity.py "${{ github.repository_owner }}" dist/activity.svg
+        run: |
+          sudo chown -R "$(id -u)" dist  # snk runs in Docker and leaves dist owned by root
+          python3 scripts/activity.py "${{ github.repository_owner }}" dist/activity.svg
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
