@@ -1,35 +1,76 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Mirac%20Cekmis&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Mirac Cekmis" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=220&section=header&text=Mira%C3%A7%20%C3%87ekmi%C5%9F&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Software%20Team%20Lead%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=58&animation=fadeIn" alt="Miraç Çekmiş" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&width=640&lines=Full+Stack+Developer;Web+%E2%80%A2+Mobile+%E2%80%A2+Desktop+%E2%80%A2+Backend;SaaS%2C+LMS%2C+Streaming+%26+AI+Agents;From+idea+to+production" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=BB9AF7&center=true&vCenter=true&width=640&lines=Software+Team+Lead+%40+Teamso;5%2B+years+building+production+systems;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Vue.js+%E2%80%A2+React+%E2%80%A2+AWS;Building+%26+leading+high-performance+teams" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mirac-cekmis/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <img src="https://img.shields.io/badge/Based%20in-Istanbul%2C%20T%C3%BCrkiye-BB9AF7?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Istanbul, Türkiye" />
 </p>
 
 ---
 
 ### 👋 About me
 
-I'm a full stack developer who builds products end to end: the web app, the mobile and desktop clients, the API behind them and the infrastructure they run on. I have shipped software for HR tech, e-learning, digital signage, property management, food retail, media streaming, travel and health, and I spend a growing part of my time building AI agents and integrations that put LLMs to real work.
+I'm a Software Development Team Lead with **5+ years of experience** building scalable, production-grade systems. I currently lead a team of **6+ engineers at Teamso**, an HR platform, where I own sprint planning and delivery and architect microservices on Spring Boot, AWS and Kubernetes.
 
-- 🚀 Comfortable owning a product from the first schema to the store release
-- 🧩 Multi-tenant SaaS, licensing and payment flows, role-based access
-- 📱 One codebase, many screens: phones, tablets, desktops, the web and TVs
-- 🌍 Multilingual products, up to 11 languages
+My core stack is Java (Spring Boot) on the backend and Vue.js and React on the frontend, and I also ship mobile apps with React Native and Flutter and desktop software on .NET. Outside of work I build products end to end, and I spend a growing share of my time on AI agents and integrations that put LLMs to real work.
+
+- 🧭 Leading engineering teams with Scrum, from planning to production
+- 🏗️ Microservices architecture and system design on AWS and Kubernetes
+- 🚀 Full stack delivery: web, mobile, desktop and APIs
 - 🤖 AI agents, MCP servers and agentic development workflows
 
 ---
 
-### 💼 Industry experience
+### 💼 Experience
+
+| Role | Company | Period |
+| :-- | :-- | :-- |
+| **Software Team Lead** | Teamso | 2024 - Present |
+| **Software Developer** | Teamso | Aug 2021 - Jan 2024 |
+| **Full-Stack Developer** | BCM Makina & Kimya | Jan 2021 - Aug 2021 |
+| **Developer** | Piri Medya | Mar 2020 - Jul 2020 |
+
+<details>
+<summary><b>Details</b></summary>
+<br />
+
+**Software Team Lead, Teamso**
+- Leading a 6-person engineering team, managing sprint planning and delivery with Scrum
+- Architecting microservices-based backend systems with Spring Boot, AWS and Kubernetes
+
+**Software Developer, Teamso**
+- Developed full stack web applications with Java (Spring Boot) and Vue.js
+- Optimized database queries and implemented Redis caching strategies
+
+**Full-Stack Developer, BCM Makina & Kimya**
+- Developed industrial web applications with C# (.NET 5) and Angular
+- Designed and implemented a microservices architecture with REST API integrations
+
+**Developer, Piri Medya**
+- Developed web-based media and news platforms with HTML, CSS, JavaScript and Java
+- Optimized CMS workflows to make content uploads more efficient
+
+</details>
+
+---
+
+### 🌐 Industries & products
 
 | Sector | What I built |
 | :-- | :-- |
 | 👥 **HR Tech / Workforce SaaS** | Web, API and mobile apps for leave, approvals, goals and payslips, plus an MCP server that connects AI assistants such as Claude and Cursor to HR data |
+| 🏭 **Industrial manufacturing** | Industrial web applications and microservices with REST integrations |
+| 📰 **Media & news** | Web-based news and media platforms and CMS workflows |
 | 🎓 **E-learning** | A multi-tenant learning management system with role-based access, JWT auth and Dockerized deployment |
 | 🖥️ **Digital signage & licensing** | A Windows desktop app, an ASP.NET licence server (accounts, trials, orders, payments, mail) and the customer and operator web panels |
 | 🏢 **Property management** | An apartment and site management platform with dues tracking, dashboards and charts |
 | 🛒 **Food & FMCG** | A monorepo with a web app, a mobile app and an API sharing core, i18n and design token packages |
-| 📺 **Media & streaming** | A cross-platform IPTV player for Android, iOS, macOS, Windows, web and Android TV, with EPG, QR sign-in on TV and 11 languages |
+| 📺 **Streaming** | A cross-platform IPTV player for Android, iOS, macOS, Windows, web and Android TV, with EPG, QR sign-in on TV and 11 languages |
 | ✈️ **Travel** | An offline-first trip planner covering flights, hotels, places to visit and day-by-day routes on a map |
 | 💪 **Health & fitness** | An offline-first training and nutrition tracker with local SQLite and charts |
 | 🤖 **AI & automation** | An autonomous agent team (analyst, product owner, developers, QA) that works through Jira tickets behind CI gates |
@@ -38,14 +79,14 @@ I'm a full stack developer who builds products end to end: the web app, the mobi
 
 ### 🧠 Core competencies
 
-- **Architecture:** monorepos with shared packages (Turborepo, pnpm workspaces), clean API boundaries, multi-tenant design
-- **Backend & APIs:** REST API design, Spring Boot with Spring Security and JPA, ASP.NET, Node.js with Hono, JWT authentication, input validation with Zod
-- **Frontend:** React and Next.js, Vue 3 and Nuxt, state with Pinia and Zustand, data fetching with TanStack Query, Tailwind CSS
-- **Mobile & desktop:** React Native with Expo Router and Reanimated, Flutter with Riverpod and go_router, WPF for Windows
-- **Data:** PostgreSQL, MySQL, SQLite with Drizzle ORM, offline-first storage and sync
-- **Product features:** payments, licensing and trials, push notifications, maps and location, media playback, i18n
-- **Quality:** unit and component tests with Jest, Vitest and Testing Library, end-to-end tests with Maestro, linting and type checks in CI
-- **DevOps:** Docker and Docker Compose, GitHub Actions pipelines, environment and secret management
+- **Leadership:** team leadership, Scrum, sprint planning and delivery, code review and mentoring
+- **Architecture:** microservices, software architecture and system design, monorepos with shared packages (Turborepo, pnpm workspaces), multi-tenant design
+- **Backend & APIs:** Java with Spring Boot, Spring Security and JPA, C# with ASP.NET and .NET, Node.js with Hono, REST API design, JWT authentication
+- **Frontend:** Vue.js and Nuxt, React and Next.js, Angular, state with Pinia and Zustand, TanStack Query, Tailwind CSS
+- **Mobile & desktop:** React Native with Expo, Flutter with Riverpod, WPF for Windows
+- **Data:** PostgreSQL, MySQL, SQLite, Redis caching, query optimization
+- **Cloud & DevOps:** AWS, Kubernetes, Docker, GitHub Actions
+- **Quality:** Jest, Vitest, Testing Library and Maestro, linting and type checks in CI
 - **AI:** Claude Agent SDK, Model Context Protocol (MCP) servers, agentic coding workflows
 
 ---
@@ -55,29 +96,41 @@ I'm a full stack developer who builds products end to end: the web app, the mobi
 <table align="center">
   <tr>
     <td align="center"><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=ts,js,java,cs,dart,html,css&theme=dark" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=java,ts,js,cs,dart,html,css&theme=dark" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=spring,dotnet,nodejs&theme=dark" alt="Backend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,vite&theme=dark" alt="Frontend" /></td>
+    <td><img src="https://skillicons.dev/icons?i=vue,nuxtjs,react,nextjs,angular,tailwind,vite&theme=dark" alt="Frontend" /></td>
   </tr>
   <tr>
     <td align="center"><b>Mobile & Desktop</b></td>
     <td><img src="https://skillicons.dev/icons?i=react,flutter,apple,windows&theme=dark" alt="Mobile and Desktop" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nodejs,spring,dotnet&theme=dark" alt="Backend" /></td>
+    <td align="center"><b>Data</b></td>
+    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,redis,sqlite&theme=dark" alt="Data" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Databases</b></td>
-    <td><img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" /></td>
+    <td align="center"><b>Cloud & DevOps</b></td>
+    <td><img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,githubactions,git&theme=dark" alt="Cloud and DevOps" /></td>
   </tr>
   <tr>
-    <td align="center"><b>Testing & DevOps</b></td>
-    <td><img src="https://skillicons.dev/icons?i=jest,vitest,docker,githubactions,git,pnpm&theme=dark" alt="Testing and DevOps" /></td>
+    <td align="center"><b>Testing</b></td>
+    <td><img src="https://skillicons.dev/icons?i=jest,vitest&theme=dark" alt="Testing" /></td>
   </tr>
 </table>
+
+---
+
+### 🎓 Education
+
+- **Yeditepe University:** BS, Computer Engineering (2021 - Present), member of the Competitive Programming Team
+- **Marmara University:** Computer Programming (2019 - 2021), GPA 3.55 / 4.00
+- **Volunteering:** Education Volunteer at TEGV, Educational Volunteers Foundation of Turkey (2020 - 2021)
 
 ---
 
@@ -87,39 +140,50 @@ I'm a full stack developer who builds products end to end: the web app, the mobi
 
 ### 👋 Hakkımda
 
-Ürünleri uçtan uca geliştiren bir full stack developer'ım: web uygulaması, mobil ve masaüstü istemciler, arkalarındaki API ve üzerinde çalıştıkları altyapı. İK teknolojileri, e-öğrenme, dijital tabela, site yönetimi, gıda, medya yayını, seyahat ve sağlık sektörlerinde yazılım geliştirdim. Zamanımın giderek artan bir kısmını da yapay zekayı gerçek işlerde kullanan AI agent'lar ve entegrasyonlar geliştirmeye ayırıyorum.
+**5+ yıllık deneyime** sahip, ölçeklenebilir ve canlı ortamda çalışan sistemler geliştiren bir Yazılım Geliştirme Takım Lideriyim. Şu anda bir İK platformu olan **Teamso'da 6+ kişilik bir mühendis ekibini** yönetiyorum; sprint planlama ve teslim süreçlerinden sorumluyum, Spring Boot, AWS ve Kubernetes üzerinde mikroservis mimarileri tasarlıyorum.
 
-- 🚀 Bir ürünü ilk veritabanı şemasından mağaza yayınına kadar sahiplenebilirim
-- 🧩 Çok kiracılı (multi-tenant) SaaS, lisanslama ve ödeme akışları, rol bazlı yetkilendirme
-- 📱 Tek kod tabanı, birçok ekran: telefon, tablet, masaüstü, web ve TV
-- 🌍 11 dile kadar çok dilli ürünler
+Ana teknolojilerim backend'de Java (Spring Boot), frontend'de Vue.js ve React. Bunların yanında React Native ve Flutter ile mobil, .NET ile masaüstü uygulamalar da geliştiriyorum. İş dışında ürünleri uçtan uca geliştiriyor, zamanımın giderek artan bir kısmını da yapay zekayı gerçek işlerde kullanan AI agent'lar ve entegrasyonlara ayırıyorum.
+
+- 🧭 Scrum ile mühendislik ekipleri yönetimi, planlamadan canlıya kadar
+- 🏗️ AWS ve Kubernetes üzerinde mikroservis mimarisi ve sistem tasarımı
+- 🚀 Uçtan uca geliştirme: web, mobil, masaüstü ve API
 - 🤖 AI agent'lar, MCP sunucuları ve agent destekli geliştirme süreçleri
 
-### 💼 Sektör deneyimi
+### 💼 Deneyim
+
+| Pozisyon | Şirket | Dönem |
+| :-- | :-- | :-- |
+| **Yazılım Takım Lideri** | Teamso | 2024 - Günümüz |
+| **Yazılım Geliştirici** | Teamso | Ağu 2021 - Oca 2024 |
+| **Full-Stack Developer** | BCM Makina & Kimya | Oca 2021 - Ağu 2021 |
+| **Developer** | Piri Medya | Mar 2020 - Tem 2020 |
+
+- **Teamso, Takım Lideri:** 6 kişilik ekibi Scrum ile yönetiyorum; Spring Boot, AWS ve Kubernetes ile mikroservis tabanlı backend sistemleri tasarlıyorum
+- **Teamso, Yazılım Geliştirici:** Java (Spring Boot) ve Vue.js ile full stack web uygulamaları geliştirdim; veritabanı sorgularını optimize edip Redis ile önbellekleme kurdum
+- **BCM Makina & Kimya:** C# (.NET 5) ve Angular ile endüstriyel web uygulamaları, REST entegrasyonlu mikroservis mimarisi
+- **Piri Medya:** HTML, CSS, JavaScript ve Java ile web tabanlı haber ve medya platformları, CMS süreçlerinin iyileştirilmesi
+
+### 🌐 Sektörler ve ürünler
 
 | Sektör | Geliştirdiklerim |
 | :-- | :-- |
-| 👥 **İK teknolojileri / SaaS** | İzin, onay, hedef ve bordro süreçleri için web, API ve mobil uygulamalar; Claude ve Cursor gibi AI asistanlarını İK verisine bağlayan bir MCP sunucusu |
-| 🎓 **E-öğrenme** | Rol bazlı yetkilendirme, JWT kimlik doğrulama ve Docker ile dağıtım içeren çok kiracılı bir öğrenme yönetim sistemi (LMS) |
-| 🖥️ **Dijital tabela ve lisanslama** | Windows masaüstü uygulaması, ASP.NET lisans sunucusu (hesaplar, deneme süreleri, siparişler, ödemeler, e-posta) ve müşteri ile operatör panelleri |
+| 👥 **İK teknolojileri / SaaS** | İzin, onay, hedef ve bordro süreçleri için web, API ve mobil uygulamalar; AI asistanlarını İK verisine bağlayan bir MCP sunucusu |
+| 🏭 **Endüstriyel üretim** | Endüstriyel web uygulamaları ve REST entegrasyonlu mikroservisler |
+| 📰 **Medya ve haber** | Web tabanlı haber ve medya platformları, CMS süreçleri |
+| 🎓 **E-öğrenme** | Rol bazlı yetkilendirme ve JWT içeren çok kiracılı öğrenme yönetim sistemi (LMS) |
+| 🖥️ **Dijital tabela ve lisanslama** | Windows masaüstü uygulaması, ASP.NET lisans sunucusu ve müşteri ile operatör panelleri |
 | 🏢 **Site yönetimi** | Aidat takibi, paneller ve grafikler içeren apartman ve site yönetim platformu |
-| 🛒 **Gıda ve FMCG** | Ortak çekirdek, çoklu dil ve tasarım paketlerini paylaşan web, mobil ve API'den oluşan bir monorepo |
-| 📺 **Medya ve yayın** | Android, iOS, macOS, Windows, web ve Android TV'de çalışan; yayın akışı (EPG), TV'de QR ile giriş ve 11 dil desteği olan IPTV oynatıcı |
-| ✈️ **Seyahat** | Uçuş, otel, gezilecek yerler ve harita üzerinde gün gün rota sunan, çevrimdışı çalışan seyahat planlayıcı |
-| 💪 **Sağlık ve fitness** | Yerel SQLite ve grafiklerle çevrimdışı çalışan antrenman ve beslenme takip uygulaması |
-| 🤖 **Yapay zeka ve otomasyon** | Jira üzerinden iş alan, CI kontrollerinden geçen otonom bir agent ekibi (analist, ürün sahibi, developer'lar, QA) |
+| 🛒 **Gıda ve FMCG** | Web, mobil ve API'den oluşan, ortak paketler paylaşan bir monorepo |
+| 📺 **Yayın** | Mobil, masaüstü, web ve Android TV'de çalışan, 11 dilli IPTV oynatıcı |
+| ✈️ **Seyahat** | Uçuş, otel, gezilecek yerler ve gün gün rota sunan çevrimdışı seyahat planlayıcı |
+| 💪 **Sağlık ve fitness** | Çevrimdışı çalışan antrenman ve beslenme takip uygulaması |
+| 🤖 **Yapay zeka ve otomasyon** | Jira üzerinden iş alan, CI kontrollerinden geçen otonom bir agent ekibi |
 
-### 🧠 Yetkinlikler
+### 🎓 Eğitim
 
-- **Mimari:** ortak paketli monorepolar (Turborepo, pnpm workspaces), net API sınırları, çok kiracılı tasarım
-- **Backend ve API:** REST API tasarımı, Spring Boot (Spring Security, JPA), ASP.NET, Node.js ve Hono, JWT kimlik doğrulama, Zod ile doğrulama
-- **Frontend:** React ve Next.js, Vue 3 ve Nuxt, Pinia ve Zustand ile state yönetimi, TanStack Query, Tailwind CSS
-- **Mobil ve masaüstü:** Expo Router ve Reanimated ile React Native, Riverpod ve go_router ile Flutter, Windows için WPF
-- **Veri:** PostgreSQL, MySQL, Drizzle ORM ile SQLite, çevrimdışı depolama ve senkronizasyon
-- **Ürün özellikleri:** ödeme, lisanslama ve deneme süreleri, push bildirimleri, harita ve konum, medya oynatma, çoklu dil
-- **Kalite:** Jest, Vitest ve Testing Library ile birim ve bileşen testleri, Maestro ile uçtan uca testler, CI'da lint ve tip kontrolleri
-- **DevOps:** Docker ve Docker Compose, GitHub Actions, ortam ve gizli anahtar yönetimi
-- **Yapay zeka:** Claude Agent SDK, Model Context Protocol (MCP) sunucuları, agent destekli geliştirme
+- **Yeditepe Üniversitesi:** Bilgisayar Mühendisliği lisans (2021 - devam ediyor), Competitive Programming Team üyesi
+- **Marmara Üniversitesi:** Bilgisayar Programcılığı (2019 - 2021), not ortalaması 3.55 / 4.00
+- **Gönüllülük:** TEGV, Eğitim Gönüllüsü (2020 - 2021)
 
 </details>
 
