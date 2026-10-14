@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="assets/hero.svg" alt="Miraç Çekmiş, Software Team Lead and Full Stack Developer" width="100%" />
+  <picture><img src="assets/hero.svg" alt="Miraç Çekmiş, Software Team Lead and Full Stack Developer" width="100%" /></picture>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mirac-cekmis/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Open%20to-collaborations-BB9AF7?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to collaborations" />
+  <picture><img src="https://img.shields.io/badge/Open%20to-collaborations-BB9AF7?style=for-the-badge" alt="Open to collaborations" /></picture>
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="5+ years of experience, 6+ engineers led, 29+ technologies, 11 industries" width="100%" />
+  <picture><img src="assets/stats.svg" alt="5+ years of experience, 6+ engineers led, 29+ technologies, 11 industries" width="100%" /></picture>
 </p>
 
 ### 👋 About me
@@ -16,13 +16,13 @@
 I'm a Software Development Team Lead with **5+ years of experience** building scalable, production-grade systems. I lead a team of **6+ engineers at Teamso**, an HR platform, where I own sprint planning and delivery and architect microservices on Spring Boot, AWS and Kubernetes. Outside of work I build products end to end across web, mobile and desktop, and lately a lot of AI agents.
 
 <p align="center">
-  <img src="assets/terminal.svg" alt="Terminal: whoami, experience, stack and current focus" width="100%" />
+  <picture><img src="assets/terminal.svg" alt="Terminal: whoami, experience, stack and current focus" width="100%" /></picture>
 </p>
 
 ### 💼 Experience
 
 <p align="center">
-  <img src="assets/timeline.svg" alt="Career timeline: Piri Medya, BCM Makina & Kimya, Teamso Software Developer, Teamso Software Team Lead" width="100%" />
+  <picture><img src="assets/timeline.svg" alt="Career timeline: Piri Medya, BCM Makina & Kimya, Teamso Software Developer, Teamso Software Team Lead" width="100%" /></picture>
 </p>
 
 <details>
@@ -50,7 +50,7 @@ I'm a Software Development Team Lead with **5+ years of experience** building sc
 ### 🛠️ Tech stack
 
 <p align="center">
-  <img src="assets/stack.svg" alt="Java, Spring, TypeScript, JavaScript, Vue, Nuxt, React, Next.js, Angular, Tailwind, Vite, HTML, CSS, C#, .NET, Node.js, Dart, Flutter, PostgreSQL, MySQL, Redis, SQLite, AWS, Kubernetes, Docker, GitHub Actions, Git, Jest, Vitest" width="100%" />
+  <picture><img src="assets/stack.svg" alt="Java, Spring, TypeScript, JavaScript, Vue, Nuxt, React, Next.js, Angular, Tailwind, Vite, HTML, CSS, C#, .NET, Node.js, Dart, Flutter, PostgreSQL, MySQL, Redis, SQLite, AWS, Kubernetes, Docker, GitHub Actions, Git, Jest, Vitest" width="100%" /></picture>
 </p>
 
 <details>
@@ -120,7 +120,7 @@ I'm a Software Development Team Lead with **5+ years of experience** building sc
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/miracckms/miracckms/output/activity.svg" alt="Contribution activity: totals, streaks and weekly chart" width="100%" />
+  <picture><img src="https://raw.githubusercontent.com/miracckms/miracckms/output/activity.svg" alt="Contribution activity: totals, streaks and weekly chart" width="100%" /></picture>
 </p>
 
 <p align="center">
@@ -132,5 +132,5 @@ I'm a Software Development Team Lead with **5+ years of experience** building sc
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:f472b6&height=120&section=footer&animation=twinkling" alt="" width="100%" />
+  <picture><img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:7aa2f7,100:f472b6&height=120&section=footer&animation=twinkling" alt="" width="100%" /></picture>
 </p>
