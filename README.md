@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/stats.svg" alt="5+ years of experience, 6+ engineers led, 9,600+ contributions last year, 11 industries" width="100%" />
+  <img src="assets/stats.svg" alt="5+ years of experience, 6+ engineers led, 29+ technologies, 11 industries" width="100%" />
 </p>
 
 ### 👋 About me
@@ -120,7 +120,7 @@ I'm a Software Development Team Lead with **5+ years of experience** building sc
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=miracckms&theme=tokyonight&hide_border=true&background=0B0E1A&ring=BB9AF7&fire=F472B6&currStreakLabel=BB9AF7&sideLabels=C0CAF5&dates=737AA2" alt="GitHub streak" />
+  <img src="https://raw.githubusercontent.com/miracckms/miracckms/output/activity.svg" alt="Contribution activity: totals, streaks and weekly chart" width="100%" />
 </p>
 
 <p align="center">

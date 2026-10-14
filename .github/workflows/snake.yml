@@ -15,12 +15,17 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v7
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#bb9af7
+            dist/github-snake.svg?color_snake=#7c3aed&color_dots=#ebedf0,#d9ccff,#b39cf5,#8a6be8,#5b3fc4
+            dist/github-snake-dark.svg?color_snake=#f472b6&color_dots=#161b22,#4a3a8c,#7059d1,#9d84f5,#d4c2ff
+
+      - name: Build activity card
+        run: python3 scripts/activity.py "${{ github.repository_owner }}" dist/activity.svg
 
       - uses: crazy-max/ghaction-github-pages@v5
         with:
